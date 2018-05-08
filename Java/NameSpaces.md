@@ -1,4 +1,4 @@
-#Name Spaces
+# Name Spaces
 
 
 In java, everything must exist inside a package or class, so these are the two primary namespaces.
