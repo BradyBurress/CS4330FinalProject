@@ -1,67 +1,67 @@
 Brady Burress
 
 
-#Java
+# Java
 
 
 [Language Purpose](../master/Java/LanguagePurpose.md)
 
 
-[Unique Features](blob/master/Java/UniqueFeatures.md)
+[Unique Features](../master/Java/UniqueFeatures.md)
 
 
-[Name Spaces](blob/master/Java/NameSpaces.md)
+[Name Spaces](../master/Java/NameSpaces.md)
 
 
-[Types](blob/master/Java/Types.md)
+[Types](../master/Java/Types.md)
 
 
-[Classes](blob/master/Java/Classes.md)
+[Classes](../master/Java/Classes.md)
 
 
-[Instance Reference Name](blob/master/Java/InstanceReferenceName.md)
+[Instance Reference Name](../master/Java/InstanceReferenceName.md)
 
 
-[Properties](blob/master/Java/Properties.md)
+[Properties](../master/Java/Properties.md)
 
 
-[Interfaces/Protocols](blob/master/Java/InterfacesandProtocols.md)
+[Interfaces/Protocols](../master/Java/InterfacesandProtocols.md)
 
 
-[Inheritance/Extension](blob/master/Java/InheritanceandExtension.md)
+[Inheritance/Extension](../master/Java/InheritanceandExtension.md)
 
 
-[Reflection](blob/master/Java/Reflection.md)
+[Reflection](../master/Java/Reflection.md)
 
 
-[Memory Management](blob/master/Java/MemoryManagement.md)
+[Memory Management](../master/Java/MemoryManagement.md)
 
 
-[Comparisons of References and Values](blob/master/Java/ComparisonsofReferencesandValues.md)
+[Comparisons of References and Values](../master/Java/ComparisonsofReferencesandValues.md)
 
 
-[Null References](blob/master/Java/NullReferences.md)
+[Null References](../master/Java/NullReferences.md)
 
 
-[Errors and Exception Handling](blob/master/Java/ErrorsandExceptionHandling.md)
+[Errors and Exception Handling](../master/Java/ErrorsandExceptionHandling.md)
 
 
-[Lambda Expressions, Closures, Functions as Types](blob/master/Java/LambdaExpressions,Closures,FunctionsasTypes.md)
+[Lambda Expressions, Closures, Functions as Types](../master/Java/LambdaExpressions,Closures,FunctionsasTypes.md)
 
 
-[Listeners and Event Handlers](blob/master/Java/ListenersandEventHandlers.md)
+[Listeners and Event Handlers](../master/Java/ListenersandEventHandlers.md)
 
 
-[Singleton](blob/master/Java/Singleton.md)
+[Singleton](../master/Java/Singleton.md)
 
 
-[Procedural Programming](blob/master/Java/ProceduralProgramming.md)
+[Procedural Programming](../master/Java/ProceduralProgramming.md)
 
 
-[Functional Programming](blob/master/Java/FunctionalProgramming.md)
+[Functional Programming](../master/Java/FunctionalProgramming.md)
 
 
-[Multithreading](blob/master/Java/Multithreading.md)
+[Multithreading](../master/Java/Multithreading.md)
 
 
 ---
@@ -70,61 +70,61 @@ Brady Burress
 #Kotlin
 
 
-[Language Purpose](blob/master/Kotlin/LanguagePurpose.md)
+[Language Purpose](../master/Kotlin/LanguagePurpose.md)
 
 
-[Unique Features](blob/master/Kotlin/UniqueFeatures.md)
+[Unique Features](../master/Kotlin/UniqueFeatures.md)
 
 
-[Name Spaces](blob/master/Kotlin/NameSpaces.md)
+[Name Spaces](../master/Kotlin/NameSpaces.md)
 
 
-[Types](blob/master/Kotlin/Types.md)
+[Types](../master/Kotlin/Types.md)
 
 
-[Classes](blob/master/Kotlin/Classes.md)
+[Classes](../master/Kotlin/Classes.md)
 
 
-[Instance Reference Name](blob/master/Kotlin/InstanceReferenceName.md)
+[Instance Reference Name](../master/Kotlin/InstanceReferenceName.md)
 
 
-[Properties](blob/master/Kotlin/Properties.md)
+[Properties](../master/Kotlin/Properties.md)
 
 
-[Interfaces/Protocols](blob/master/Kotlin/InterfacesandProtocols.md)
+[Interfaces/Protocols](../master/Kotlin/InterfacesandProtocols.md)
 
 
-[Inheritance/Extension](blob/master/Kotlin/InheritanceandExtension.md)
+[Inheritance/Extension](../master/Kotlin/InheritanceandExtension.md)
 
 
-[Reflection](blob/master/Kotlin/Reflection.md)
+[Reflection](../master/Kotlin/Reflection.md)
 
 
-[Memory Management](blob/master/Kotlin/MemoryManagement.md)
+[Memory Management](../master/Kotlin/MemoryManagement.md)
 
 
-[Comparisons of References and Values](blob/master/Kotlin/ComparisonsofReferencesandValues.md)
+[Comparisons of References and Values](../master/Kotlin/ComparisonsofReferencesandValues.md)
 
 
-[Null References](blob/master/Kotlin/NullReferences.md)
+[Null References](../master/Kotlin/NullReferences.md)
 
 
-[Errors and Exception Handling](blob/master/Kotlin/ErrorsandExceptionHandling.md)
+[Errors and Exception Handling](../master/Kotlin/ErrorsandExceptionHandling.md)
 
 
-[Lambda Expressions, Closures, Functions as Types](blob/master/Kotlin/LambdaExpressions,Closures,FunctionsasTypes.md)
+[Lambda Expressions, Closures, Functions as Types](../master/Kotlin/LambdaExpressions,Closures,FunctionsasTypes.md)
 
 
-[Listeners and Event Handlers](blob/master/Kotlin/ListenersandEventHandlers.md)
+[Listeners and Event Handlers](../master/Kotlin/ListenersandEventHandlers.md)
 
 
-[Singleton](blob/master/Kotlin/Singleton.md)
+[Singleton](../master/Kotlin/Singleton.md)
 
 
-[Procedural Programming](blob/master/Kotlin/ProceduralProgramming.md)
+[Procedural Programming](../master/Kotlin/ProceduralProgramming.md)
 
 
-[Functional Programming](blob/master/Kotlin/FunctionalProgramming.md)
+[Functional Programming](../master/Kotlin/FunctionalProgramming.md)
 
 
-[Multithreading](blob/master/Kotlin/Multithreading.md)
+[Multithreading](../master/Kotlin/Multithreading.md)
