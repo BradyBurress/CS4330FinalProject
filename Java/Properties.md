@@ -1,4 +1,4 @@
-#Properties
+# Properties
 
 
 In java you must write your own getters and setters.
