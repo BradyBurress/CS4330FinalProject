@@ -1,4 +1,4 @@
-#Lambda Expressions, Closures, Functions as Types
+# Lambda Expressions, Closures, Functions as Types
 
 
 Kotlin utilizes a family of function types to represent functions, such as lambda expressions.
