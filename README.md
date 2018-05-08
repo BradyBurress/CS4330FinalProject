@@ -4,7 +4,7 @@ Brady Burress
 #Java
 
 
-[Language Purpose](../blob/master/Java/LanguagePurpose.md)
+[Language Purpose](../master/Java/LanguagePurpose.md)
 
 
 [Unique Features](blob/master/Java/UniqueFeatures.md)
