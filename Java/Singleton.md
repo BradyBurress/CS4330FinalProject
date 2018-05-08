@@ -1,4 +1,4 @@
-#Singleton
+# Singleton
 
 
 Singleton ensures that there is only one instantiated object of a certain class to ensure that there are not unintended duplicates.
