@@ -1,4 +1,4 @@
-#Lambda Expressions, Closures, Functions as Types
+# Lambda Expressions, Closures, Functions as Types
 
 
 A lambda is a function which can be created without being part of a class
