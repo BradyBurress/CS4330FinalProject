@@ -1,4 +1,4 @@
-#Inheritance and Extension
+# Inheritance and Extension
 
 
 In Kotlin a superclass must contain the keyword 'open' because they are final by default. 
