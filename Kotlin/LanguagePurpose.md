@@ -1,4 +1,4 @@
-#Language Purpose
+# Language Purpose
 
 
 Kotlin was invented as an improvement of java that is still compatible with java libraries. It was also intended to be an attraction to increase sales of the IntelliJ IDEA
