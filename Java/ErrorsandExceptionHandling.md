@@ -1,4 +1,4 @@
-#Errors and Exception Handling
+# Errors and Exception Handling
 
 
 The primary way to handle errors is by using try and catch blocks to perform potentially unsafe operations in a way that stops them from crashing the entire program.
