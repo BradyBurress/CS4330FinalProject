@@ -1,4 +1,4 @@
-#Properties
+# Properties
 
 
 Kotlin will provide default getters and setters for each field, although you can still write your own.
