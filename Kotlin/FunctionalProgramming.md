@@ -1,7 +1,7 @@
-#Functional Programming
+# Functional Programming
 
 
-Functional programming is partially possible in Kotlin, although some required features are missing.
+Functional programming is mostly possible in Kotlin, although some required features are missing.
 
 
 There are options that can help with this, such as libraries that provide most of the missing elements.
