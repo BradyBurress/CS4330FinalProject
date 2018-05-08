@@ -1,4 +1,4 @@
-#Singleton
+# Singleton
 
 
 Singleton is an inherent part of Kotlin because the singleton pattern is used for static members.
