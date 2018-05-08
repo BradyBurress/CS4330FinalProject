@@ -1,4 +1,4 @@
-#Types
+# Types
 
 
 Java contains 8 primitive data types
