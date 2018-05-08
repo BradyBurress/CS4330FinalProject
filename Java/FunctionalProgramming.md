@@ -1,4 +1,4 @@
-#Functional Programming
+# Functional Programming
 
 
 Functional programming is difficult in Java because it is impossible to have plain functions
